@@ -1,1 +1,1 @@
-# dok-kor
+# doc-kor
